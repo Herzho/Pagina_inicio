@@ -1,0 +1,15 @@
+.modelo1 img{
+    height: 250px;
+    width: 150px;
+    border-radius: 15px;
+}
+.modelo2 img{
+    height: 400px;
+    width: 200px;
+    border-radius: 10px;
+}
+body{
+    background-color: rgb(0, 102, 255);
+    color: salmon;
+    font-size: 25px;
+}
